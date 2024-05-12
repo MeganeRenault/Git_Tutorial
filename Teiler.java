@@ -9,7 +9,7 @@ public class Teiler {
         for (i = 1; i < a; i++) {
             if (a % i == 0) {
                 System.out.println(i);
-                System.out.println(a);
+                // System.out.println(a);
             }
         }
 
